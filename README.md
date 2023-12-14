@@ -9,4 +9,4 @@
 ## Approach
 
 The "Analysis" notebook contains data processing resulting in CSV files (see directory `results`), one for each group (male-case, male-control, female-case, female-control), which contains PV interneuron cells from that group and their expression of 10 selected genes that determine the PV interneuron celltype.
-These data from the CSV files were used for statistical testing using SPSS.
+These data from the CSV files were used for statistical testing using SPSS. The csv file contains for each column the gene marker and the expression per sample entry, this allows the furher statistical analysis using SPSS. 
