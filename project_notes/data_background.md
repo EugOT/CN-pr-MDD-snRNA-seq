@@ -65,7 +65,8 @@ While the authors’ analysis considered broader patterns of differentially expr
 * #### Females
     * (a) broad cell types: high number of DEGs in microglia only, 
     * (b) cluster level: highest number of DEGs in the Mic1 cluster with a large proportion overlapping with the microglial DEGs at the broad level. Several inhibitory neuronal clusters including two PVALB expressing clusters—InN1_PV and InN9_PV as well as an SST expressing cluster—InN2_SST and an ADARB2 expressing cluster—InN8_ADARB2 contained majority of remaining DEGs.
-    * Results pointed to dysregulation of microglia and inhibitory neurons, especially PV interneurons in females with MDD 
+    * Results pointed to dysregulation of microglia and inhibitory neurons, especially PV interneurons in females with MDD
+      
 * The authors investigate the DEGs and their potential effects in microglial cells, dysregulation of cellular stress pathways in PV interneurons,  and also the crosstalk between microglial cells and PV interneurons, 
 * PV interneurons implicated in stress and depression with sex-specific changes - most PV interneurons are encapsulated by ECM structures called perineuronal nets (PNNs) which help protect them from cellular stress, and microglia are known to regulate PNNs. Therefore cellular stress may be part of the molecular pathology of MDD..
 * Authors found evidence of dysregulated cellular stress pathways, such as heat-shock factor activation, in PV interneurons in MDD females via differential expression analysis and WGCNA. And both analyses pointed to dysregulation of estrogen receptor mediated signaling. 
