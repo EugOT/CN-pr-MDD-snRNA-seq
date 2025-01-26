@@ -1,10 +1,12 @@
 
 # Further Research Questions/Ideas
 
-1.	How does neuroinflammation affect the function of PV interneurons in patients with MDD, and can ketamine counteract these effects?
+### 1.	How does neuroinflammation affect the function of PV interneurons in patients with MDD, and can ketamine counteract these effects?
+
 Chronic stress and neuroinflammation have been shown to impact the functionality of PV interneurons, disrupting inhibitory control in the prefrontal cortex, which is critical in MDD pathology. Exploring how inflammatory markers such as IL-6 and TNF-α alter PV interneuron function and whether ketamine’s known anti-inflammatory properties can restore their activity could provide valuable insights. This research might support the hypothesis that targeting inflammation could enhance ketamine’s therapeutic efficacy, ultimately leading to more individualized treatment strategies. (Beurel et al., 2020).
 
-2.	What are the long-term effects of ketamine on PV interneuron plasticity and connectivity in the prefrontal cortex?
+### 2.	What are the long-term effects of ketamine on PV interneuron plasticity and connectivity in the prefrontal cortex?
+
 Ketamine’s rapid antidepressant effects are well-documented, but its long-term impact on PV interneurons, particularly regarding their plasticity and network connectivity, remains underexplored. Investigating whether repeated ketamine administration induces lasting structural and functional changes in PV interneurons could shed light on its potential for sustained therapeutic benefits or risks, such as cognitive side effects. Insights from longitudinal studies could inform treatment protocols to maximize benefits while minimizing adverse effects. (Abdallah et al., 2018).
 
 
