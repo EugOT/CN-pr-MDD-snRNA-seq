@@ -23,7 +23,7 @@ But using the data from this dataset should be permissible for an initial invest
 #### Reasons a cell-specific approach analysis of PV interneurons may assist in understanding Ketamine’s antidepressant effects in patients with MDD, and in turn help in greater understanding of the underlying molecular etiology of MDD:
 
 * _Differential effects on interneurons and pyramidal neurons - mechanism of action:_
-Studies have found that low-dose ketamine has different effects on different types of neurons (increase the activity of pyramidal neurons, while reducing the activity of PV interneurons).  The prevailing theory of how ketamine produces its effects is that it blocks NMDA receptors (NMDARs) on inhibitory interneurons, leading to a disinhibition of cortical excitatory activity (Zanos et al 2018, Lewis et al 2024), though this is debated and some studies have pointed to the role of other systems, including the dopaminergic, serotonergic, AMPA and opioid receptors amongst others (Picard et al 2017). However, research suggests that ketamine's rapid antidepressant effects are mediated by its action on PV interneurons in particular, specifically through NMDA receptors containing the GluN2A subunit (Picard et al 2017). (NMDARs typically contain two GluN1 subunits plus either two GluN2 subunits or a mixture of GluN2/GluN3 subunits (Zanos et al 2018).)
+Studies have found that low-dose ketamine has different effects on different types of neurons (increase the activity of pyramidal neurons, while reducing the activity of PV interneurons).  The prevailing theory of how ketamine produces its effects is that it blocks NMDA receptors (NMDARs) on GABA-ergic inhibitory interneurons, leading to a disinhibition of cortical excitatory activity (Zanos et al 2018, Lewis et al 2024), though this is debated and some studies have pointed to the role of other systems, including the dopaminergic, serotonergic, AMPA and opioid receptors amongst others (Picard et al 2017). One alternative/additional proposed mechanism is that low-does ketamine increases glutamatergic neurotransmission in the PFC by increasing the release of glutamate and stimulating post-synaptic non-NMDA receptors such as AMPA and kainate receptors and increasing dopamine release (Moghaddam et al 2017). However, research suggests that ketamine's rapid antidepressant effects are mediated by its action on PV interneurons in particular, specifically through NMDARs containing the GluN2A subunit (Picard et al 2017). (NMDARs typically contain two GluN1 subunits plus either two GluN2 subunits or a mixture of GluN2/GluN3 subunits (Zanos et al 2018).)
 
 * _Strengthen existing hypotheses:_ Understanding differences in gene expression in PV interneurons in MDD patients versus controls (and between males and females) may serve to strengthen hypotheses both about the rapid antidepressant action of ketamine and also the underlying molecular mechanisms of MDD.
 
@@ -45,6 +45,9 @@ Antidepressant effects of ketamine in depressed patients,  Berman, Robert M et a
 
 Lewis V, Rurak G, Salmaso N, Aguilar-Valles A. An integrative view on the cell-type-specific mechanisms of ketamine's antidepressant actions. Trends Neurosci. 2024 Mar;47(3):195-208. doi: 10.1016/j.tins.2023.12.004. Epub 2024 Jan 13. PMID: 38220554.
 https://pubmed.ncbi.nlm.nih.gov/38220554/ 
+
+Moghaddam B, Adams B, Verma A, Daly D. Activation of glutamatergic neurotransmission by ketamine: a novel step in the pathway from NMDA receptor blockade to dopaminergic and cognitive disruptions associated with the prefrontal cortex. J Neurosci. 1997 Apr 15;17(8):2921-7. doi: 10.1523/JNEUROSCI.17-08-02921.1997. PMID: 9092613; PMCID: PMC6573099.
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6573099/ 
  
 Zanos P, Gould TD. Mechanisms of ketamine action as an antidepressant. Mol Psychiatry. 2018 Apr;23(4):801-811. doi: 10.1038/mp.2017.255. Epub 2018 Mar 13. PMID: 29532791; PMCID: PMC5999402.
 https://pmc.ncbi.nlm.nih.gov/articles/PMC5999402/
@@ -58,3 +61,9 @@ https://pubmed.ncbi.nlm.nih.gov/24454710/
 
 Nahar L, Delacroix BM, Nam HW. The Role of Parvalbumin Interneurons in Neurotransmitter Balance and Neurological Disease. Front Psychiatry. 2021 Jun 18;12:679960. doi: 10.3389/fpsyt.2021.679960. PMID: 34220586; PMCID: PMC8249927.
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8249927/ 
+
+NB: Article of interest re depression and glutamate receptors
+
+Gray AL, Hyde TM, Deep-Soboslay A, Kleinman JE, Sodhi MS. Sex differences in glutamate receptor gene expression in major depression and suicide. Mol Psychiatry. 2015 Sep;20(9):1057-68. doi: 10.1038/mp.2015.91. Epub 2015 Jul 14. Erratum in: Mol Psychiatry. 2015 Sep;20(9):1139. doi: 10.1038/mp.2015.114. PMID: 26169973.
+https://pubmed.ncbi.nlm.nih.gov/26169973/ 
+- (see increased expression of GRIN2B, GRIK3 and GRM2 in MDD suicides v MDD non-suicides / general disruption of regulation of the Glutamate receptors in the dlPFC of females with MDD, with more specific Glutamate receptor alterations in the suicides and in the male groups)
